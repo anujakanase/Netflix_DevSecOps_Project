@@ -7,3 +7,4 @@
 .viminfo
 .ssh/
 *.pem
+.cache/
