@@ -1,1 +1,9 @@
 .ssh/
+.Xauthority
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.viminfo
+.ssh/
+*.pem
